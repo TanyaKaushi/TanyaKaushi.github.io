@@ -461,7 +461,7 @@ section {
     background: var(--secon-bg-color);
     transition: transform .4s;
     border-radius: 10px;
-    height: fit-content;
+    height: 500px;
 }
 
 .service-btn {
